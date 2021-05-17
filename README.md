@@ -14,10 +14,8 @@ I'm Milee and I focus on applying design as a problem-solving method to build di
 
 
 ## Github Highlights
-<div>
-  ![Milee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mileeme&hide=stars,prs)
-</div>
-<div>
-[![Top Lanuguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mileeme)](https://github.com/mileeme/github-readme-stats)
-</div>
+![Milee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mileeme&hide=stars,prs)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mileeme&layout=compact)](https://github.com/mileeme/github-readme-stats)
+
 
