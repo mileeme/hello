@@ -2,7 +2,7 @@
 <img width="100px" src="https://milee-0421.s3-us-west-1.amazonaws.com/static/img/projects/icon-m.svg">
 </span>
 
-# Hi there 👋
+# Hi there :wave:
 I'm Milee and I focus on applying design as a problem-solving method to build digital experiences that benefit people. I'm currently working on [Cocobits](http://cocobits.github.io/), a flexible design system for building modern web applications.
 
 
