@@ -1,7 +1,7 @@
 <style>
-  .icon-m { width: 100px;
+  .icon-m { width: 100px; }
 </style>
-<img width="100px" src="https://milee-0421.s3-us-west-1.amazonaws.com/static/img/projects/icon-m.svg">
+<img class="icon-m" src="https://milee-0421.s3-us-west-1.amazonaws.com/static/img/projects/icon-m.svg">
 
 # Hi there 👋
 I'm Milee and I focus on applying design as a problem-solving method to build digital experiences that benefit people. I'm currently working on [Cocobits](http://cocobits.github.io/), a flexible design system for building modern web applications.
