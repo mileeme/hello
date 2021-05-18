@@ -13,11 +13,11 @@ I'm Milee and I focus on applying design as a problem-solving method to build di
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=0D254B)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=0D254B)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0D464B)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=1E124F)
-![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=1E124F)
-![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=1E124F)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=1E124F)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=1E124F)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2A1972)
+![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=2A1972)
+![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=2A1972)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=2A1972)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=2A1972)
 
 
 ## Github Highlights
