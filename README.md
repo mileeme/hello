@@ -12,6 +12,7 @@ I'm Milee and I focused on building safe, equitable and intuitive experiences th
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=0F2976)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=0F2976)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0D464B)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=0D464B)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2A1972)
 ![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=2A1972)
 ![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=2A1972)
