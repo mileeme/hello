@@ -12,7 +12,7 @@ I'm Milee and I focused on building safe, equitable and intuitive experiences th
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=0F2976)
 ![](https://img.shields.io/badge/Library-ReactJs-informational?style=flat&logo=React&logoColor=white&color=0D464B)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0D464B)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=0D464B)
+![](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=Figma&logoColor=white&color=0D464B)
 
 ## Github Highlights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mileeme&hide=stars,prs)
