@@ -3,7 +3,7 @@
 </span>
 
 # Hi there :wave:
-I'm Milee and I focused on building safe, equitable and intuitive experiences that benefit people. I'm currently working on [Cocobits](http://cocobits.github.io/), a flexible design system for building modern web applications.
+I'm Milee and I'm currently working on the [Coursera design system](https://coursera.org/).
 
 ## Favorite Technologies and Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0F2976)
