@@ -2,8 +2,8 @@
 <img width="100px" src="https://milee-0421.s3-us-west-1.amazonaws.com/static/img/projects/icon-m.svg">
 </span>
 
-# Hi there :wave:
-I'm Milee and I'm currently working on the [Coursera design system](https://coursera.org/).
+# Hi there :wave: I'm Milee.
+I'm a product designer who is equally comfortable writing code and designing user experiences that result in positive business metrics. Currently, I'm working on a reimagined [Coursera design system](https://coursera.org/).
 
 ## Favorite Technologies and Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0F2976)
