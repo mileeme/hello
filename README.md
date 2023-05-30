@@ -14,9 +14,6 @@ I'm a product designer who is equally comfortable writing code and designing use
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0D464B)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=0D464B)
 
-## Github Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mileeme&hide=stars,prs)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mileeme&layout=compact)](https://github.com/mileeme/github-readme-stats)
 
 
