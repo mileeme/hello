@@ -3,7 +3,7 @@
 </span>
 
 # Hi there :wave: I'm Milee.
-I am a hybrid product designer with platform design, UX, and coding expertise. I can take a product from concept to launch, seamlessly blending technical and creative skills. As a Staff Product Designer and design lead for AI-powered products at Coursera, I work on designing experiences that enhance how people learn to help them achieve their goals.
+I'm a multidisciplinary product designer with expertise in platform design, UX, and coding. I take products from concept to launch, merging technical and creative skills. As a Staff Product Designer and design lead at Coursera, I design AI-powered experiences that transform how people learn, discover their ideal career path, and achieve their goals.
 
 ## Favorite Technologies and Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0F2976)
