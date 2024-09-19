@@ -3,7 +3,7 @@
 </span>
 
 # Hi there :wave: I'm Milee.
-I'm a multidisciplinary product designer with expertise in platform design, UX, and coding. I take products from concept to launch, merging technical and creative skills. As a Staff Product Designer and design lead at Coursera, I design AI-powered experiences that transform how people learn and achieve their goals.
+I'm a multidisciplinary product designer specializing in platform design, UX, and coding. My approach focuses on building human-centered interfaces incorporating AI to enhance and augment the learner's experience. I merge technical and creative skills from concept to launch to create intuitive, impactful products. As a Staff Product Designer and design lead for Coursera's Coach/GenAI platformization team, I design AI-powered experiences that transform how people learn and achieve their goals while empowering teams to build innovative AI solutions that put users first.
 
 Recently, I led the design of Coach - Coursera's first AI learning assistant (Launched to general availability in Q2 2024).
 
