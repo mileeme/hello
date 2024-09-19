@@ -18,6 +18,6 @@ Recently, I led the design of Coach - Coursera's first AI learning assistant (La
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0D464B)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=0D464B)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mileeme&layout=compact)](https://github.com/mileeme/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mileeyu&layout=compact)](https://github.com/mileeyu/github-readme-stats)
 
 
