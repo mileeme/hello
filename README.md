@@ -7,7 +7,7 @@ I'm a multidisciplinary product designer specializing in platform design, UX, an
 
 As a design lead for Coursera's Coach/GenAI team, I design AI-powered experiences that transform how people learn and achieve their goals while empowering teams to build innovative AI solutions that put users first.
 
-Recently, I led the design of Coach - Coursera's first AI learning assistant (Launched to general availability in Q2 2024). I'm now focused on building the future of learning. 
+Recently, I led the design of Coach, Coursera's first AI learning assistant (Launched to general availability in Q2 2024) and GenAI platform library of features that has been used to build 6+ applications on Coursera. Now, I'm focused on building the future of learning. 
 
 ## Favorite Technologies and Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0F2976)
